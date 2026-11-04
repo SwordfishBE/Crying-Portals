@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "crying_portals",
+  "version": "${version}",
+  "name": "Crying Portals",
+  "description": "Build Nether portals with crying obsidian, obsidian, or a mixture of both. No Collective required.",
+  "authors": ["SwordfishBE"],
+  "contact": {
+    "homepage": "https://github.com/SwordfishBE/Crying-Portals",
+    "sources": "https://github.com/SwordfishBE/Crying-Portals",
+    "email": "swordfishbe@locutus.net"
+  },
+  "license": "AGPL-3.0",
+  "icon": "assets/crying_portals/icon.png",
+  "environment": "*",
+  "entrypoints": { "main": ["net.crying_portals.CryingPortals"] },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "fabric-api": ">=0.165.2+26.3"
+  }
+}

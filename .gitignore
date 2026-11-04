@@ -1,0 +1,8 @@
+.gradle/
+build/
+run/
+upstream/
+*.zip
+.idea/
+*.iml
+build-validation.log

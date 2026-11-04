@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "crying_portals-test",
+  "version": "1.0.0",
+  "name": "Crying Portals Tests",
+  "environment": "*",
+  "entrypoints": { "fabric-gametest": ["net.crying_portals.PortalGameTests"] }
+}
